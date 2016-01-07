@@ -3,7 +3,7 @@ My FreeCodeCamp Code
 
 In this repository I will keep track of my work that I will be accomplishing at FreeCodeCamp.
 
-If you want to help me or have a better explanations for the solution of a specific problem please feel free to reach me out I will >appreciated.
+If you want to help me or have a better explanations for the solution of a specific problem please feel free to reach me out I will appreciated.
 
 ## Get in Touch
 **` Henry Arbolaez `**
