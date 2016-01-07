@@ -15,7 +15,6 @@ If you want to help me or have a better explanations for the solution of a speci
 </div>
 <p align="center">
 <a href="http://www.freecodecamp.com/henryarb92" target="_blank">FreeCodeCamp</a> | 
-<a href="https://github.com/henryarb92" target="_blank">Github</a> |
 <a href="http://codepen.io/henryarb92" target="_blank"> CodePen</a> | 
 <a href="https://www.linkedin.com/in/henryarb92" target="_blank">LinkedIn </a> | 
 <a href="mailto:henryarbolaez@gmail.com" target="_blank">E-Mail</a> | 
