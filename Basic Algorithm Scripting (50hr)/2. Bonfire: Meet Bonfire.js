@@ -1,5 +1,5 @@
 /**
- Bonfire: Meet Bonfire
+ 2. Bonfire: Meet Bonfire
 
 Your goal is to fix the failing test.
 The failing test is in red.
@@ -17,4 +17,4 @@ function meetBonfire(argument) {
   return true;
 }
 
-meetBonfire("You can do this!");
+console.log(meetBonfire("You can do this!"));

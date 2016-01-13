@@ -1,5 +1,5 @@
 /**
- Bonfire: Check for Palindromes
+ 5. Bonfire: Check for Palindromes
 
 Return true if the given string is a palindrome. Otherwise, return false.
 A palindrome is a word or sentence that's 
@@ -18,4 +18,4 @@ function palindrome(str) {
   return normal === reverse;
 }
 
-palindrome("race car");
+console.log(palindrome("race car"));

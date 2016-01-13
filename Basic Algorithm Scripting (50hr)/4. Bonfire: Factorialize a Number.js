@@ -1,5 +1,5 @@
 /**
- Bonfire: Factorialize a Number
+ 4. Bonfire: Factorialize a Number
 
 Return the factorial of the provided integer.
 If the integer is represented with the letter n, 
@@ -19,4 +19,4 @@ function factorialize(num) {
   return num * factorialize(num - 1);
 }
 
-factorialize(5);
+console.log(factorialize(5));
